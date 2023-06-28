@@ -10,7 +10,7 @@ Lastest Update: 28th June 2023&nbsp;
 
 ## Working Paper
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://tianlan9308.github.io/mypaper/thesis/IP-thesis.pdf)<br>**Tian Lan**, Yan Zhang, Wanhong Zhang, under view.<br>
+- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Tian Lan**, Yan Zhang, Wanhong Zhang, under view.<br>
 
 ## Conference Paper
 
