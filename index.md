@@ -37,8 +37,8 @@ Specializing in modeling, designing, and controlling power and energy systems wi
 ---
 
 ## News and Updates
-<br>
 - **<font color='red'>[News]</font>**
+<br>
 **Feb 2023：**Paper already included in IEEE Xplore.
 - **Dec 2022：**Joined Sichuan Energy Internet Research Institute Tsinghua University as an intern.
 - **Dec 2022：**Attended the 17th IEEE Conference on Industrial Electronics and Applications in Chengdu, China.
