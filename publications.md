@@ -12,6 +12,9 @@ Lastest Update: 28th June 2023&nbsp;
 
 - Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Tian Lan**, Yan Zhang, Wanhong Zhang, under view.<br>
 
+## Journal Paper
+
+
 ## Conference Paper
 
 
