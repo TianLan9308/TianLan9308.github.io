@@ -38,6 +38,8 @@ Specializing in modeling, designing, and controlling power and energy systems wi
 
 ## News and Updates
 
+**<font color='red'>[News]</font>**
+
 - **Dec 2022：**Joined Sichuan Energy Internet Research Institute Tsinghua University as an intern.
 - **Aug 2021：**Joined the School of Mechanical Engineering at Qinghai University to pursue a master's degree.
 - **Aug 2017：**Joined CDJDGM as a Systems Engineer.
