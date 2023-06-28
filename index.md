@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Tian Lan (兰添). I am currently pursuing a master's degree in the Intelligent Systems Laboratory at Qinghai University. I received my B.S. in Electrical Engineering and Automation from Beijing Jiaotong University in 2017. From 2017 to 2021, I worked as a Systems Engineer at Chengdu Jiaoda Guangmang Technology Co., Ltd. 
+Here is **Tian Lan (兰添)**. I am currently pursuing a master's degree in the Intelligent Systems Laboratory at Qinghai University. I received my B.S. in Electrical Engineering and Automation from Beijing Jiaotong University in 2017. From 2017 to 2021, I worked as a Systems Engineer at Chengdu Jiaoda Guangmang Technology Co., Ltd. 
 
 
 <br>
