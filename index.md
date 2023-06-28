@@ -23,6 +23,10 @@ Here is my [CV](https://tianlan9308.github.io/file/TianLan_CV.pdf).
 
 **<font color='red'>[Highlight]</font> I am looking for a Ph.D. program to start in Fall 2024.**
 <br>
+- Modeling, simulation, and control of renewable energy generation systems based on inverter resources
+- Planning, controlling, and regulating new energy clusters in active distribution networks.
+- control theory and applications
+
 Specializing in modeling, designing, and controlling power and energy systems with expertise in active distribution network planning, controlling and regulating new energy clusters, and optimizing photovoltaic energy storage systems using artificial intelligence techniques. Working Experienced in collaborating with interdisciplinary teams of researchers, industry partners, and stakeholders on numerous energy-related projects. Skilled in utilizing MATLAB, Python, and C++ to develop innovative solutions for complex energy problems.
 
 <br>
