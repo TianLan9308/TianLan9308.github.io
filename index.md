@@ -18,6 +18,7 @@ Lastest Update: 28th June 2023
 Here is my [CV](https://tianlan9308.github.io/file/TianLan_CV.pdf).
 
 <br>
+
 ---
 
 ## Research Interests
@@ -26,6 +27,7 @@ Here is my [CV](https://tianlan9308.github.io/file/TianLan_CV.pdf).
 
 
 Specializing in modeling, designing, and controlling power and energy systems with expertise in active distribution network planning, controlling and regulating new energy clusters, and optimizing photovoltaic energy storage systems using artificial intelligence techniques. Working Experienced in collaborating with interdisciplinary teams of researchers, industry partners, and stakeholders on numerous energy-related projects. Skilled in utilizing MATLAB, Python, and C++ to develop innovative solutions for complex energy problems.
+
 - Modeling, simulation, and control of renewable energy generation systems based on inverter resources
 - Planning, controlling, and regulating new energy clusters in active distribution networks.
 - Control theory and Applications
@@ -40,6 +42,7 @@ Specializing in modeling, designing, and controlling power and energy systems wi
 - **Aug 2021：**Joined the School of Mechanical Engineering at Qinghai University to pursue a master's degree.
 - **Aug 2017：**Joined CDJDGM as a Systems Engineer.
 - **Jun 2017：**Obtained a bachelor's degree from BJTU.
+
 <br>
 
 
