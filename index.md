@@ -35,7 +35,7 @@ Specializing in modeling, designing, and controlling power and energy systems wi
 ---
 
 ## News and Updates
-- **<font color='red'>[Highlight]
+- **<font color='red'>[Highlight]**
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Happy to win the Finalist Award in MCM 2023.
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
