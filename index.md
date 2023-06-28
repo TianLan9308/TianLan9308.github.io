@@ -6,7 +6,6 @@ layout: page
 <img src="https://tianlan9308.github.io/images/tianlan2.jpg" class="floatpic" width="243" height="350">
 Here is **Tian Lan (兰添)**. I am currently pursuing a master's degree in the Intelligent Systems Laboratory at Qinghai University. I received my B.S. in Electrical Engineering and Automation from Beijing Jiaotong University in 2017. From 2017 to 2021, I worked as a Systems Engineer at Chengdu Jiaoda Guangmang Technology Co., Ltd. 
 
-
 <br>
 
 # Curriculum Vitae
@@ -16,8 +15,6 @@ Lastest Update: 28th June 2023
 Here is my [CV](https://tianlan9308.github.io/file/TianLan_CV.pdf).
 
 <br>
-
-
 
 ## Research Interests
 
@@ -29,8 +26,6 @@ Specializing in modeling, designing, and controlling power and energy systems wi
 - Control theory and Applications
 
 <br>
-
-
 
 ## News and Updates
 - **<font color='red'>[News]</font>**
