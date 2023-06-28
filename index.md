@@ -39,8 +39,9 @@ Specializing in modeling, designing, and controlling power and energy systems wi
 ## News and Updates
 
 - **<font color='red'>[News]</font>**
-
-**Dec 2022：**Joined Sichuan Energy Internet Research Institute Tsinghua University as an intern.
+**Feb 2023：**Papers already included in IEEE Xplore.
+- **Dec 2022：**Joined Sichuan Energy Internet Research Institute Tsinghua University as an intern.
+- **Dec 2022：**Attended the 17th IEEE Conference on Industrial Electronics and Applications in Chengdu, China.
 - **Aug 2021：**Joined the School of Mechanical Engineering at Qinghai University to pursue a master's degree.
 - **Aug 2017：**Joined CDJDGM as a Systems Engineer.
 - **Jun 2017：**Obtained a bachelor's degree from BJTU.
