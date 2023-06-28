@@ -23,9 +23,7 @@ Here is my [CV](https://tianlan9308.github.io/file/TianLan_CV.pdf).
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+Specializing in modeling, designing, and controlling power and energy systems with expertise in active distribution network planning, controlling and regulating new energy clusters, and optimizing photovoltaic energy storage systems using artificial intelligence techniques. Working Experienced in collaborating with interdisciplinary teams of researchers, industry partners, and stakeholders on numerous energy-related projects. Skilled in utilizing MATLAB, Python, and C++ to develop innovative solutions for complex energy problems.
 
 <br>
 
