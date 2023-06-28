@@ -15,7 +15,7 @@ Here is **Tian Lan (兰添)**. I am currently pursuing a master's degree in the 
 
 Lastest Update: 14th June 2023
 
-Here is my CV(https://tianlan9308.github.io//file/TianLan_CV.pdf).
+Here is my CV(https://tianlan9308.github.io/file/TianLan_CV.pdf).
 
 <br>
 
