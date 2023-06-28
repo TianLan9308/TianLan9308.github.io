@@ -1,20 +1,20 @@
-title: Hanlin Cai
+title: Tian Lan
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://tianlan9308.github.io/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
+  name: Tian Lan
   avatar: hanlin.jpg
 #  bio:
   email: hanlin.cai@ieee.org
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  #twitter: lancecai2002
   # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
+  #github: GuangLun2000
+  #linkedin: hanlin-cai-07b53b23b
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
   # lastfm:
@@ -83,5 +83,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/05/01 by Hanlin Cai.
+# Latest update in 2023/06/28 by Tian Lan.
 # URL: https://caihanlin.com/
