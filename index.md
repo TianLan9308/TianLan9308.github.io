@@ -44,4 +44,10 @@ Specializing in modeling, designing, and controlling power and energy systems wi
 - **Sep 2022：**Happy to be nominated for the China National Scholarship.
 - **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
 
+- **Dec 2022: **Joined Sichuan Energy Internet Research Institute Tsinghua University as an intern.
+- **Aug 2021: **Joined the School of Mechanical Engineering at Qinghai University to pursue a master's degree.
+- **Aug 2017: **Joined CDJDGM as a Systems Engineer.
+- **Jun 2017: **Obtained a bachelor's degree from BJTU.
+
+
 <br>
