@@ -11,6 +11,14 @@ Here is **Tian Lan (兰添)**. I am currently pursuing a master's degree in the 
 
 <br>
 
+# Curriculum Vitae
+
+Lastest Update: 14th June 2023
+
+Here is my CV(https://tianlan9308.github.io//file/Resume-HanlinCAI.pdf).
+
+<br>
+
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
