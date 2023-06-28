@@ -19,7 +19,7 @@ Here is my [CV](https://tianlan9308.github.io/file/TianLan_CV.pdf).
 
 <br>
 
----
+
 
 ## Research Interests
 
@@ -32,7 +32,7 @@ Specializing in modeling, designing, and controlling power and energy systems wi
 
 <br>
 
----
+
 
 ## News and Updates
 - **<font color='red'>[News]</font>**
