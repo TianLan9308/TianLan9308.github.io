@@ -12,14 +12,14 @@ Here is **Tian Lan (兰添)**. I am currently pursuing a master's degree in the 
 
 Lastest Update: 28th June 2023
 
-Here is my [CV](https://tianlan9308.github.io/file/TianLan_CV.pdf).
+Click [here](https://tianlan9308.github.io/file/TianLan_CV.pdf) to download my full CV.
 
 <br>
 
 ## Research Interests
 
 **<font color='red'>[Highlight]</font> I am looking for a Ph.D. program to start in Fall 2024.**
-Specializing in modeling, designing, and controlling power and energy systems with expertise in active distribution network planning, controlling and regulating new energy clusters, and optimizing photovoltaic energy storage systems using artificial intelligence techniques. Working Experienced in collaborating with interdisciplinary teams of researchers, industry partners, and stakeholders on numerous energy-related projects. Skilled in utilizing MATLAB, Python, and C++ to develop innovative solutions for complex energy problems.
+My research interests are in the control and optimization of power and energy systems, rail transportation automation and electrification, inverter control and their application in artificial intelligence. I have extensive experience working with interdisciplinary teams of researchers, industry partners and stakeholders on numerous projects involving energy and rail transportation related issues. Proficient in MATLAB, Python and C++ to develop innovative solutions for complex energy problems.
 
 - Modeling, simulation, and control of renewable energy generation systems based on inverter resources
 - Planning, controlling, and regulating new energy clusters in active distribution networks.
