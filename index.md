@@ -19,6 +19,7 @@ Click [here](https://tianlan9308.github.io/file/TianLan_CV.pdf) to download my f
 ## Research Interests
 
 **<font color='red'>[Highlight]</font> I am looking for a Ph.D. program to start in Fall 2024.**
+
 My research interests are in the control and optimization of power and energy systems, rail transportation automation and electrification, inverter control and their application in artificial intelligence. I have extensive experience working with interdisciplinary teams of researchers, industry partners and stakeholders on numerous projects involving energy and rail transportation related issues. Proficient in MATLAB, Python and C++ to develop innovative solutions for complex energy problems.
 
 - Modeling, simulation, and control of renewable energy generation systems based on inverter resources
