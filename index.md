@@ -22,10 +22,6 @@ Click [here](https://tianlan9308.github.io/file/TianLan_CV.pdf) to download my f
 
 My research interests are **control and optimization of power and energy systems, automation and electrification of rail transportation, inverter control and their application in artificial intelligence**. I have extensive experience working with interdisciplinary teams of researchers, industry partners, and stakeholders on numerous projects involving energy and rail transportation-related issues. Proficient in MATLAB, Python, and C++ to develop innovative solutions for complex energy problems.
 
-| My research interests are **control and optimization of power and energy systems, automation and electrification of rail transportation, inverter control and their application in artificial intelligence**. | I have extensive experience working with interdisciplinary teams of researchers, industry partners, and stakeholders on numerous projects involving energy and rail transportation-related issues. Proficient in MATLAB, Python, and C++ to develop innovative solutions for complex energy problems. |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-
 - Modeling, simulation, and control of renewable energy generation systems based on inverter resources
 - Planning, controlling, and regulating new energy clusters in active distribution networks.
 - Control theory and Applications
