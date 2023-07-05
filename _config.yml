@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Tian Lan"
 title_separator          : "-"
-name                     : &name "Rob Williams"
+name                     : &name "Tian Lan"
 description              : &description "Postdoc in Political Science"
 url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,16 +84,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
-  avatar           : "profile.png"
-  bio              : "Data Scientist"
+  name             : "Tian Lan"
+  avatar           : "WechatIMG80.jpg"
+  bio              :
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            :
+  googlescholar    : "https://scholar.google.com/citations?user=BYRfHlwAAAAJ&hl=zh-CN"
+  email            : "tianlan9308@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -101,18 +101,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           :
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "jayrobwilliams"
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         :
+  mastodon         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
