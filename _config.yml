@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tian Lan"
 title_separator          : "-"
 name                     : &name "Tian Lan"
-description              : &description "Postdoc in Political Science"
+description              :
 url                      : https://tianlan9308.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TianLan9308/TianLan9308.github.io"
