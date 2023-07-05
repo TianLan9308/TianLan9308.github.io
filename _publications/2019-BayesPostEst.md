@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-bayespostest
 date: 2019-10-01
 venue: 'Journal of Open Source Software'
-paperurl: '/files/pdf/research/BayesPostEst.pdf'
+paperurl: '/files/pdf/research/iciea2022-000404.pdf'
 link: 'https://ieeexplore.ieee.org/abstract/document/10006232/'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+citation: 'T. Lan, Y. Zhang and W. Zhang, "Model Predictive Control of Energy-Stored Quasi-Z-Source Inverter Without Weighting Factor," <i>2022 IEEE 17th Conference on Industrial Electronics and Applications (ICIEA)</i>, Chengdu, China, 2022, pp. 892-899, doi: 10.1109/ICIEA54703.2022.10006232.'
 ---
