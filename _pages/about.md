@@ -7,24 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome！ I am currently a master's student in the Department of Computer Technology and Applications at [Qinghai University](https://www.qhu.edu.cn/), focusing on the application of power electronics and advanced control theory to the power/new energy system.
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
-
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+I earned my Bachelor of Engineering degree from [Beijing Jiaotong University](http://en.njtu.edu.cn/), majoring in Electrical Engineering and Automation and minoring in Engineering Management. My academic work has been or will be published in internationally recognized conferences or journals. These [research](research) mainly include modeling, simulation, and control of power electronic systems based on inverter resources, application of artificial intelligence techniques in new energy sources, and exploration of advanced control theory. I worked as a system engineer for 4 years in [Chengdu Jiaoda Guangmang Technology Co., Ltd](http://en.ctny.com.cn/business), a national research unit for rail transportation automation and electrification engineering. During that time, I was responsible for the design, hardware, and software development of electrical automation products.
