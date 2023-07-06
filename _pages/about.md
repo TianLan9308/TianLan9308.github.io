@@ -13,3 +13,4 @@ I earned my Bachelor of Engineering degree from [Beijing Jiaotong University](ht
 
 I worked as a system engineer for 4 years in [Chengdu Jiaoda Guangmang Technology Co., Ltd](http://en.ctny.com.cn/business), a national research unit for rail transportation automation and electrification engineering. During that time, I was responsible for electrical automation products' design, hardware, and software development.
 
+**<font color='red'>[NEW]</font> I am looking for Ph.D. to start in 2024 Fall.
